@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Photo Gallery</string>
+
+    <!--  Image 1 string resources  -->
+    <string name="img1_photographer_name">Averie woodard</string>
+    <string name="img1_views">28,304,010</string>
+    <string name="img1_downloads">229,004</string>
+    <string name="img1_description">woman riding on vehicle putting her head and right arm outside the window while travelling the road</string>
+
+    <!--  Image 2 string resources  -->
+    <string name="img2_photographer_name">Fons Heijnsbroek</string>
+    <string name="img2_views">573,459</string>
+    <string name="img2_downloads">3,902</string>
+    <string name="img2_description">Photo of a market stall with ceramic ware at the Albert Cuyp market in Amsterdam city. In the background shop windows of the market street behind the pottery stall. Street photography of The Netherlands in free download images. // Foto van de Albert Cuypmarkt met een kraam vol met keramisch aardewerk. In de buurt De Pijp te Amsterdam stad - straatfotografie Nederland in hoge resolutie foto; gratis download.</string>
+
+    <!--  Image 3 string resources  -->
+    <string name="img3_photographer_name">Mohamed Nohassi</string>
+    <string name="img3_views">573,459</string>
+    <string name="img3_downloads">3,902</string>
+    <string name="img3_description">Photo of a market stall with ceramic ware at the Albert Cuyp market in Amsterdam city. In the background shop windows of the market street behind the pottery stall. Street photography of The Netherlands in free download images. // Foto van de Albert Cuypmarkt met een kraam vol met keramisch aardewerk. In de buurt De Pijp te Amsterdam stad - straatfotografie Nederland in hoge resolutie foto; gratis download.</string>
+
+    <!--  Image 4 string resources  -->
+    <string name="img4_photographer_name">hannah grace</string>
+    <string name="img4_views">1,454,445</string>
+    <string name="img4_downloads">4,900</string>
+    <string name="img4_description">silhouette of person jumping in mid-air during daytime</string>
+
+    <!--  Image 5 string resources  -->
+    <string name="img5_photographer_name">Bernard Hermant</string>
+    <string name="img5_views">3,056,342</string>
+    <string name="img5_downloads">21,206</string>
+    <string name="img5_description">Download this free HD photo of bali, indonesia, blue, and free in Indonesia by Bernard Hermant</string>
+</resources>
